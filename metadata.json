@@ -1,0 +1,6 @@
+{
+  "name": "AQILA.AI Generator",
+  "description": "Powerful AI-driven image creator and editor with high-contrast, high-quality results and rapid response times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI_IMAGE_GENERATION"]
+}
